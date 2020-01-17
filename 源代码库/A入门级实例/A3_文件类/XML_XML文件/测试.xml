@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Zoo>
+  <Animal id="1">大象</Animal>
+  <Animal id="2">老虎</Animal>
+</Zoo>
