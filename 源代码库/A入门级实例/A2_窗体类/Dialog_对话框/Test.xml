@@ -1,0 +1,16 @@
+﻿<window id="#PB_Any" name="测试" text="测试" minwidth="auto" minheight="auto" flags="#PB_Window_ScreenCentered | #PB_Window_SystemMenu | #PB_Window_SizeGadget">
+  <panel>
+    <tab text="分页1">
+      <vbox expand="item:2">
+        <hbox>
+          <button text="按键1"/>
+          <checkbox text="选项框"/>
+          <button text="按键2"/>
+        </hbox>
+        <editor text="内容" height="150"/>
+      </vbox>
+    </tab>
+    <tab text="分页2">
+    </tab>
+  </panel>
+</window>
