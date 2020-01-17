@@ -1,0 +1,13 @@
+﻿
+[窗体]
+窗体X = 554
+窗体Y = 309
+窗体W = 900
+窗体H = 600
+置顶 = 0
+文件名 = 0
+源代码 = 1
+[设置]
+PUB路径 = D:\Program Files (x86)\PureBasic-5.62-x86\PureBasic.exe
+源码路径 = ..\..\..\源代码库\
+官方论坛 = https://www.purebasic.fr/english/search.php

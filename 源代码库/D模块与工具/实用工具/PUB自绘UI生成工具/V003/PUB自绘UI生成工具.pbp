@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project xmlns="http://www.purebasic.com/namespace" version="1.0" creator="PureBasic 5.62 (Windows - x86)">
+  <section name="config">
+    <options closefiles="1" openmode="0" name="PUB自绘UI生成工具"/>
+    <comment>PUB自绘UI生成工具</comment>
+  </section>
+  <section name="data">
+    <explorer view="C:\ProgramData\PureBasic\Examples\" pattern="0"/>
+    <log show="1"/>
+    <lastopen date="2019-03-19 10:54" user="Milooking" host="MILOOKING-PC"/>
+  </section>
+  <section name="files">
+    <file name="AtuoCode_Controls.pb">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="+"/>
+      <fingerprint md5="cbe47ae66878b0714ed85936f3a570dc"/>
+    </file>
+    <file name="AtuoCode_Screen.pb">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="+"/>
+      <fingerprint md5="e0328792d1e94c345c61f206c9d73b2d"/>
+    </file>
+    <file name="Generater.pb">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="+"/>
+      <fingerprint md5="479828ed99642913316042cb4636b3a9"/>
+    </file>
+    <file name="Install.pb">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="+"/>
+      <fingerprint md5="005841e5a3e722afb23557d7ed6b3307"/>
+    </file>
+    <file name="Redraw.pb">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="+"/>
+      <fingerprint md5="6c3b089931648791a6a9fd305c1bc6a3"/>
+    </file>
+    <file name="自绘UI生成工具.pb">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="+"/>
+      <fingerprint md5="78cdada5a68fa97f06447de9aa159076"/>
+    </file>
+  </section>
+  <section name="targets">
+    <target name="Default Target" enabled="1" default="1">
+      <inputfile value="G:\PUB自绘UI生成工具\V003\自绘UI生成工具.pb"/>
+      <outputfile value=""/>
+      <executable value="PUB自绘UI生成工具.exe"/>
+      <options xpskin="1" debug="1"/>
+      <icon enable="1">G:\PUB自绘UI生成工具\V003\Image\LOGO.ico</icon>
+    </target>
+  </section>
+</project>
